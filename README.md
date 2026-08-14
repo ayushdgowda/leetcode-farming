@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushdgowda/leetcode-farming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushdgowda/leetcode-farming/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ayushdgowda/leetcode-farming/tree/master/0027-remove-element) |
 | [0179-largest-number](https://github.com/ayushdgowda/leetcode-farming/tree/master/0179-largest-number) |
 ## Greedy
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ayushdgowda/leetcode-farming/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayushdgowda/leetcode-farming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushdgowda/leetcode-farming/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ayushdgowda/leetcode-farming/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |
